@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amin
-- 👀 I’m interested in DevOps-Python-GoLang
-- 🌱 I’m currently learning DevOps
-- 📫 How to reach me at test@amnrah.xyz
-- :desktop_computer: Website: [amnrah.xyz
+- 👀 I’m interested in GoLang-DevOps-Python
+- 🌱 I’m currently working as Software developer
+- 📫 You can contact me at: amnrahwork@gmail.com
+- :desktop_computer: Website(under construct:) ): [amnrah.xyz
 ](https://amnrah.xyz/)
